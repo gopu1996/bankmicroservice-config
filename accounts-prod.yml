@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to yBank accounts related prod APIs "
   contactDetails:
     name: "Gopal Pandey - Product Owner"
-    email: "gopal@bank.com"
+    email: "{cipher}3818acaadf1a8824377d9a2b70c45ecf0fe4aaef668088aef8edc3734c33fb4c"
   onCallSupport:
     - (453) 492-4829
     - (236) 403-0384
