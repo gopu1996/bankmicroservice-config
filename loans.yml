@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 loans:
-  message: "Welcome to yBank accounts related prod APIs "
+  message: "Welcome to Bank accounts related developer APIs "
   contactDetails:
     name: "Gopal Pandey - developer"
     email: "gopal@bank.com"
