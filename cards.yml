@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 cards:
-  message: "Welcome to yBank accounts related prod APIs "
+  message: "Welcome to Bank accounts related developer APIs "
   contactDetails:
     name: "Gopal Pandey - developer"
     email: "{cipher}3818acaadf1a8824377d9a2b70c45ecf0fe4aaef668088aef8edc3734c33fb4c"
