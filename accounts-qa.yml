@@ -2,7 +2,7 @@ build:
   version: "2.0"
 
 accounts:
-  message: "Welcome to yBank accounts related prod APIs "
+  message: "Welcome to Bank accounts related QA APIs "
   contactDetails:
     name: "Gopal Pandey - QA lead"
     email: "{cipher}3818acaadf1a8824377d9a2b70c45ecf0fe4aaef668088aef8edc3734c33fb4c"
