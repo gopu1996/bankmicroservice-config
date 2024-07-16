@@ -4,7 +4,7 @@ build:
 accounts:
   message: "Welcome to Bank accounts related QA APIs "
   contactDetails:
-    name: "Gopal Pandey - QA lead"
+    name: "Gopal Pandey - QA Manager"
     email: "{cipher}3818acaadf1a8824377d9a2b70c45ecf0fe4aaef668088aef8edc3734c33fb4c"
   onCallSupport:
     - (453) 392-4829
